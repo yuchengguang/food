@@ -113,6 +113,7 @@ header .book>div {
 	width: 70%;
 	height: 120%;
 	overflow: auto;
+        margin-top: -0.45rem;
 /* 	display: flex;
   	flex-direction: column;
  	justify-content: space-between; */
