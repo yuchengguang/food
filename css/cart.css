@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2018-11-08 10:16:30
 * @Last Modified by:   Administrator
-* @Last Modified time: 2018-11-12 16:23:18
+* @Last Modified time: 2018-11-12 20:56:58
 */
 header .box{
 	width: 100%;
@@ -113,7 +113,7 @@ header .book>div {
 	width: 70%;
 	height: 120%;
 	overflow: auto;
-        margin-top: -0.45rem;
+	margin-top: -0.45rem;
 /* 	display: flex;
   	flex-direction: column;
  	justify-content: space-between; */
